@@ -1,2 +1,2 @@
 # GPG-Commands
-GPG Commands
+Check Wiki
